@@ -32,4 +32,20 @@ B2B営業として、多くの顧客と多種多様な製品を扱う中で、�
 **サーバー**：Tomcat 9  <br>
 
 
+# 使用画面イメージ
+**ログイン画面**
+![alt](https://github.com/user-attachments/assets/dcd29191-9e02-48b9-aba6-01b683a3c273)<br>
+ログインに失敗した場合はエラーメッセージを表示する
+![alt](https://github.com/user-attachments/assets/42de8a43-dfd3-487d-abfb-7633ca7fa932)<br>
+
+**商品選択画面**
+![alt](https://github.com/user-attachments/assets/a088770d-360d-430e-8e7c-f778c9eda7da)<br>
+
+**カート内一覧画面**
+![alt](https://github.com/user-attachments/assets/0f3f7f8f-9ced-4123-a38d-92d93201f985)<br>
+
+**精算完了画面**
+![alt](https://github.com/user-attachments/assets/86a51989-d859-4f23-ba21-ef2db697310b)<br>
+
+
 
