@@ -47,5 +47,34 @@ B2B営業として、多くの顧客と多種多様な製品を扱う中で、�
 **精算完了画面**
 ![alt](https://github.com/user-attachments/assets/86a51989-d859-4f23-ba21-ef2db697310b)<br>
 
+**精算履歴画面**
+![alt](https://github.com/user-attachments/assets/496f1c84-2ba8-4e69-b993-c2999bfe8d5f)<br>
 
+**パスワード変更画面**
+![alt](https://github.com/user-attachments/assets/7e4f4887-6637-4578-920f-3ef05b5c472d)<br>
 
+**ログアウト画面**
+![alt](https://github.com/user-attachments/assets/4eb317c6-51d0-45f0-a008-f2674ef94d17)<br>      
+
+# DB設計
+![alt](https://github.com/user-attachments/assets/ef39b4d1-f3ca-484c-930b-5c3ba27b0536)<br>
+
+# 学習、実装期間
+**○Java と SQLの基礎知識**
+学習期間：2024年9月〜2024年1１月 
+使った教材：ProgateでjavaとSQLの全コースを完了、基礎的な知識について学びます。 <br>     
+**○Java Webアプリ開発作業**    
+学習期間：2024年12月〜2025年2月 
+学習内容：Udemyで講座を受講し、mvcモデルによるWebアプリ作成に挑戦しました。 
+使った教材：Java-Webアプリ入門（みのるコーチ）: MVCの考え方を理解することができる。 
+②JavaWeb-DB連携（みのるコーチ）:Java によるWebアプリケーションから、データベース(DB)を活用できる。
+
+# 工夫したこと 
+MVC（Model-View-Controller）アーキテクチャに従い、コードの可読性とメンテナンス性を確保するとともに、Java Web アプリケーションにおけるユーザーとアプリケーションのインタラクションをより明確に理解することができ
+ました。<br>      
+
+![alt](https://github.com/user-attachments/assets/01d2f8f2-9e57-44ab-a91e-bed481eaf307)<br>
+
+# 今後の課題 
+○Java Web アプリはローカル環境でのみ動作しており、オンラインでのアクセスは実現できていません。今後は、AWS などの知識を学びながら、アプリをクラウド上にデプロイし、インターネット経由でアクセスできるようにすることで、Web アプリのオンライン化を実現したいと考えています。 <br>
+○現在、アプリは精算記録の保存と閲覧機能を実装していますが、ユーザーが特定の期間内の精算集計を確認できるようにしたいと考えています。そのため、月次および年次の精算レポートとCSV/Excel形式でのエクスポート機能を追加し、ユーザーがデータを分析・管理できるようにすることで、アプリの実用性を向上させたいです。
